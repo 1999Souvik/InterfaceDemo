@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
